@@ -1,0 +1,46 @@
+html {
+  cursor: crosshair;
+}
+
+body {
+  background-image: url(https://media.discordapp.net/attachments/992761361492873247/1145005501701165116/2518638m2meuijlr3.png?width=248&height=225);
+  background-attachment: fixed;
+  background-size: 350px;
+}
+span,
+p {
+  font-family: "times new roman";
+  text-align: center;
+  color: #a5c4bd;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 20px;
+} 
+
+.imlazy {
+  font-family: "times new roman";
+  text-align: center;
+  color: #a5c4bd;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+a {
+  color: #8ab2b8; 
+  text-decoration: none;
+  text-decoration-color: #a5c4bd;
+}
+
+a:hover {
+  color: #418a85;
+}
+
+.flower {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  background-image: url(https://64.media.tumblr.com/dd4cd1c52a4dde99089232cfe7f58dca/b1062882f81016c5-d8/s500x750/fe3766acb51b7e7997e23a349506972a7a8d57ee.png);
+  background-size: contain;
+}
